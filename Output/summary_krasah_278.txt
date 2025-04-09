@@ -1,0 +1,12 @@
+project_name: تطوير المنصة الموحدة للخدمات
+tender_number: 278
+release_date: 01/02/1445
+question_deadline: 11/02/1445
+submission_deadline: 01/03/1445 - 11:59 م
+opening_date: 02/03/1445 - 12:00 م
+award_date: 03/06/1445
+start_date: 10/06/1445
+contract_duration: 3 سنوات
+scope_of_work: تركيب ودعم نظام ESM، أتمتة خدمات 200 عملية، نقل بيانات، باقات دعم عن بُعد، التكامل مع أنظمة داخلية
+contact_person: تغريد المقبل
+contact_email: talmetwazi@tvtc.gov.sa

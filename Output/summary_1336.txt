@@ -1,0 +1,10 @@
+project_name: توريد وتركيب أنظمة إدارة خدمات و عناوين الشبكة الداخلية
+tender_number: 1336/2023
+release_date: 10/10/1444
+submission_deadline: 26/10/1444 - 08:00 مساءً
+award_date: 12/01/1445
+start_date: 05/02/1445
+contract_duration: 120 يوم
+scope_of_work: مراقبة وإدارة عناوين IP وخدمات DNS وDHCP
+contact_person: عبدالعزيز صالح الثاني
+contact_email: As.althani@sio.gov.sa
